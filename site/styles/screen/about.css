@@ -1,0 +1,555 @@
+.about{
+  position: absolute;
+  width: 1440px;
+  height: 825px;
+  left: 0px;
+  top: 3281px;
+}
+
+.about_text{
+  /* О компании */
+
+  position: absolute;
+  height: 62px;
+  left: 32px;
+  right: 32px;
+  top: 30px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 130%;
+
+  color: #212529;
+}
+
+.about_block1{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 1198px;
+height: 38px;
+left: 32px;
+top: 150px;
+}
+
+.about_block11{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 155px;
+height: 38px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block11_text{
+  /* 5 */
+
+
+width: 20px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block11_text1{
+  /* отделов */
+
+width: 123px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #212529;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_block12{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 242px;
+height: 38px;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_block12_text{
+  /* 5 */
+
+width: 20px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block12_text1{
+  /* маркетологов */
+
+width: 210px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #212529;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_block13{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 38px;
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.about_block13_text{
+  /* 3 */
+
+width: 21px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block13_text1{
+  /* дизайнера */
+
+width: 160px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #212529;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_block14{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 225px;
+height: 38px;
+
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+
+.about_block14_text{
+  /* 3 */
+
+width: 21px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block14_text1{
+  /* копирайтера */
+
+width: 192px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #212529;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_block15{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 255px;
+height: 38px;
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+.about_block15_text{
+  /* 7 */
+
+width: 19px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_block15_text1{
+  /* разработчиков */
+
+width: 224px;
+height: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #212529;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_button{
+box-sizing: border-box;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+position: absolute;
+width: 248px;
+height: 72px;
+left: 34px;
+top: 677px;
+}
+
+.about_mnogotext{
+  /* Мы — команда специалистов с опытом, энтузиазмом и лёгким недосыпом. Маркетинговое агентство «Дрожжи» было основано в 2015 году, как компания, где можно получить комплексное интернет- и oффлайн-продвижение. На сегодняшний день мы не зависим ни от ниши, ни от географии, ни от специфики продукта. В портфолио компании сотни успешных кейсов, способных помочь вам в реализации своей идеи. */
+
+  position: absolute;
+  width: 676px;
+  height: 189px;
+  left: 34px;
+  top: 246px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+
+  color: #495057;
+}
+
+.about_image_text{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 678px;
+height: 545px;
+left: 730px;
+top: 246px;
+}
+
+.about_image{
+width: 676px;
+height: 513px;
+
+background: #EEEEEE;
+border-radius: 8px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.about_text_image{
+  /* Команда агентства «Дрожжи» */
+
+width: 240px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+
+color: #8D959D;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_triple{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 473px;
+height: 141px;
+left: 34px;
+top: 499px;
+}
+
+.about_triple1{
+width: 140px;
+height: 114px;
+
+flex: none;
+order: 0;
+flex-grow: 0;}
+
+.about_triple1_text{
+position: absolute;
+left: 0%;
+right: 72.94%;
+top: 0%;
+bottom: 65.96%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+}
+
+.about_triple1_text1{
+  /* реализованных проектов */
+
+position: absolute;
+width: 140px;
+height: 54px;
+left: 0px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+
+color: #495057;
+}
+
+.about_triple2{
+width: 138px;
+height: 141px;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.about_triple2_text{
+position: absolute;
+left: 36.36%;
+right: 53.07%;
+top: 0%;
+bottom: 65.96%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+
+}
+
+.about_triple2_text1{
+  /* клиента доверили нам свои проекты */
+
+position: absolute;
+width: 138px;
+height: 81px;
+left: 172px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+
+color: #495057;
+
+}
+
+.about_triple3{
+width: 131px;
+height: 114px;
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.about_triple3_text{
+  /* 5+ */
+
+position: absolute;
+left: 72.3%;
+right: 16.7%;
+top: 0%;
+bottom: 65.96%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+
+color: #D22020;
+}
+
+.about_triple3_text1{
+  /* лет успешной работы */
+
+position: absolute;
+width: 131px;
+height: 54px;
+left: 342px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+
+color: #495057;
+}

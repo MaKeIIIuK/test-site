@@ -1,0 +1,81 @@
+@import url('screen/header.css') (min-width: 376px);
+@import url('screen/head.css') (min-width: 376px);
+@import url('screen/portfolio.css') (min-width: 376px);
+@import url('screen/about.css') (min-width: 376px);
+@import url('screen/request.css') (min-width: 376px);
+@import url('screen/footer.css') (min-width: 376px);
+
+@import url('mobile/header.css') (max-width: 375px);
+@import url('mobile/head.css') (max-width: 375px);
+@import url('mobile/portfolio.css') (max-width: 375px);
+@import url('mobile/about.css') (max-width: 375px);
+@import url('mobile/request.css') (max-width: 375px);
+@import url('mobile/footer.css') (max-width: 375px);
+
+
+/*handheld*/
+
+html, body{width:100%; height:100%;}
+
+/*
+@media screen{
+@media (max-width: 375px){
+*/
+
+@media (min-width: 375px){
+html {
+  position: relative;
+
+  background-color: #FFFFFF;
+
+  max-width: 1440px;
+  max-height: 5049px;
+  margin: auto;
+
+  scroll-behavior: smooth;
+}
+}
+
+@media (max-width: 375px){
+html {
+  position: relative;
+
+  background-color: #FFFFFF;
+
+  max-width: 320px;
+  max-height: 5049px;
+  margin: auto;
+
+  scroll-behavior: smooth;
+}
+}
+
+body{
+  margin: 0px;
+}
+
+img[tabindex="0"] {
+  cursor: zoom-in;
+}
+img[tabindex="0"]:focus {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+  max-width: 93%;
+  max-height: 93%;
+  margin: auto;
+  box-shadow: 0 0 20px #000, 0 0 0 1000px rgba(59,59,59,.4);
+}
+img[tabindex="0"]:focus,
+img[tabindex="0"]:focus ~ * {
+  pointer-events: none;
+}
+
+/**{
+outline: 1px solid red;
+}*/

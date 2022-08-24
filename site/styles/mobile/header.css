@@ -1,0 +1,186 @@
+.header_container{
+/* Header/desktop */
+
+position: absolute;
+max-width: 320px;
+height: 93px;
+left: 0px;
+top: 0px;
+
+z-index: 10;
+
+}
+
+.header_logo{
+/* logo */
+
+position: absolute;
+width: 99.71px;
+height: 45px;
+left: 32px;
+top: calc(50% - 45px/2);
+}
+
+.menu{
+  /* icon/burger */
+  display: block;
+position: absolute;
+width: 32px;
+height: 32px;
+left: 272px;
+top: 31px;
+}
+
+.header_menu{
+/* Header menu */
+/* Auto layout */
+
+display: none;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 132px;
+left: 0px;
+right: 0px;
+top: 93px;
+}
+
+.button_portfolio{
+/* item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+width: 120px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.button_portfolio_label{
+/* label */
+
+
+width: 88px;
+height: 24px;
+
+/* text */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.button_about{
+/* item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+width: 126px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.button_about_label{
+/* label */
+
+
+width: 94px;
+height: 24px;
+
+/* text */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.button_contacts{
+/* item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+width: 107px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.button_contacts_label{
+/* label */
+
+
+width: 75px;
+height: 24px;
+
+/* text */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

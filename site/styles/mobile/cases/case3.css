@@ -1,0 +1,156 @@
+.portfolio_case3{
+  position: absolute;
+  width: 288px;
+  height: 446px;
+  left: 16px;
+  top: 614px;
+}
+
+.portfolio_case3_up{
+/* Frame 265 */
+
+
+position: absolute;
+width: 287.82px;
+height: 250px;
+
+background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%), #EEEEEE;
+border-radius: 8px;
+}
+
+.portfolio_case3_up_box{
+/* Frame 1086 */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 10px;
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 16px;
+bottom: 16px;
+
+/* BW/black */
+
+background: #212529;
+border-radius: 32px;
+}
+
+.portfolio_case3_up_box_text{
+  /* text */
+
+
+  width: 51px;
+  height: 20px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  /* BW/white */
+
+  color: #FFFFFF;
+
+  z-index: 1;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.portfolio_case3_up_box1{
+  /* Frame 1005 */
+
+
+position: absolute;
+height: 513px;
+left: 0px;
+top: 0px;
+}
+
+.portfolio_case3_down{
+/* Frame 267 */
+
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 288px;
+height: 180px;
+top: 265px;
+}
+
+.portfolio_case3_down_box_text{
+/* Аудит отдела маркетинга и продаж для Название бренда длинное название... */
+
+width: 288px;
+height: 95px;
+
+/* HEADER/H4 Medium 24-130% */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+letter-spacing: -0.03em;
+
+/* BW/black */
+
+color: #212529;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.portfolio_case3_down_box_text1{
+/* Аудит, маркетинг сюда кратко теги */
+
+width: 288px;
+height: 54px;
+
+/* BODY/BASE Regular 18-150% Body */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+
+/* BW/gray2 */
+
+color: #8D959D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}

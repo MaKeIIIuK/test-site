@@ -1,0 +1,173 @@
+@import url('cases/case1.css');
+@import url('cases/case3.css');
+
+.portfolio{
+  /* Frame 1168 */
+
+  position: absolute;
+  width: 320px;
+  height: 1233px;
+  left: 0px;
+  top: 568px;
+}
+
+/*
+.case_container{
+display: grid;
+grid-template-columns: 100px 100px;
+grid-template-rows: 50px 50px;
+}*/
+
+.portfolio_frame1{
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+
+  position: absolute;
+  width: 288px;
+  height: 105px;
+  left: 16px;
+  top: 62px;
+}
+
+.portfolio_text{
+  /* Портфолио */
+
+
+  width: 288px;
+  height: 62px;
+
+  /* H2 */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.portfolio_frame11{
+  /* Frame 264 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 0px;
+  gap: 8px;
+
+  width: 168px;
+  height: 43px;
+
+  border-radius: 38px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.portfolio_text1{
+  /* Label */
+
+
+  width: 144px;
+  height: 27px;
+
+  /* BUTTON/Regular 18-150% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.portfolio_image{
+  /* Component 4 */
+  
+  width: 16px;
+  height: 16px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.all_cases{
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  gap: 8px;
+
+  position: absolute;
+  width: 288px;
+  height: 72px;
+  left: 16px;
+  top: 1092px;
+}
+
+.portfolio_case2{
+  display: none;
+}
+
+.portfolio_case4{
+  display: none;
+}
+
+.portfolio_case5{
+  display: none;
+}
+
+.portfolio_case6{
+  display: none;
+}

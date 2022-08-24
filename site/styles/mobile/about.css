@@ -1,0 +1,772 @@
+.about{
+  /* About */
+  position: absolute;
+  width: 320px;
+  height: 1870px;
+  left: 0px;
+  top: 1801px;
+}
+
+.about_text{
+  /* О компании */
+  position: absolute;
+  height: 62px;
+  left: 16px;
+  right: 16px;
+  top: 30px;
+
+  /* H2 */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  /* BW/black */
+
+  color: #212529;
+}
+
+.about_block1{
+  /* Frame 1170 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 288px;
+height: 318px;
+left: 16px;
+top: 121px;
+}
+
+.about_block11{
+  /* Frame 1007 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 155px;
+  height: 38px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block11_text{
+  /* 5 */
+
+  width: 20px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block11_text1{
+  /* отделов */
+  width: 123px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_block12{
+  /* Frame 1008 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 242px;
+  height: 38px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_block12_text{
+  /* 5 */
+
+  width: 20px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block12_text1{
+  /* маркетологов */
+
+
+  width: 210px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_block13{
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 193px;
+  height: 38px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.about_block13_text{
+  /* 3 */
+
+  width: 21px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block13_text1{
+  /* дизайнера */
+
+  width: 160px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_block14{
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  width: 225px;
+  height: 38px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.about_block14_text{
+  /* 3 */
+
+  width: 21px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block14_text1{
+  /* копирайтера */
+
+  width: 192px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_block15{
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 255px;
+  height: 38px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 4;
+  flex-grow: 0;
+}
+
+.about_block15_text{
+  /* 7 */
+
+  width: 19px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_block15_text1{
+  /* разработчиков */
+
+  width: 224px;
+  height: 38px;
+
+  /* HEADER/H3 Regular 32-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  /* or 38px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_button{
+  /* Frame 205 */
+
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  gap: 8px;
+
+  position: absolute;
+  width: 248px;
+  height: 59px;
+  left: 34px;
+  top: 1372px;
+
+  border: 1px solid #D22020;
+  border-radius: 56px;
+}
+
+.about_mnogotext{
+  /* Мы — команда специалистов с опытом, энтузиазмом и лёгким недосыпом. Маркетинговое агентство «Дрожжи» было основано в 2015 году, как компания, где можно получить комплексное интернет- и oффлайн-продвижение. На сегодняшний день мы не зависим ни от ниши, ни от географии, ни от специфики продукта. В портфолио компании сотни успешных кейсов, способных помочь вам в реализации своей идеи. */
+  position: absolute;
+  width: 288px;
+  height: 459px;
+  left: 16px;
+  top: 470px;
+
+  /* BODY/BASE Regular 18-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 27px */
+
+
+  /* BW/black2 */
+
+  color: #495057;
+}
+
+.about_image_text{
+  /* Frame 1164 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  position: absolute;
+  width: 288px;
+  height: 340px;
+  left: 16px;
+  top: 1463px;
+}
+
+.about_image{
+  /* Frame 92 */
+
+
+  width: 288px;
+  height: 300px;
+
+  background: #EEEEEE;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_text_image{
+  /* Команда агентства «Дрожжи» */
+
+
+  width: 240px;
+  height: 24px;
+
+  /* BODY/Regular 16-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+
+  /* BW/gray2 */
+
+  color: #8D959D;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_triple{
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 32px;
+
+  position: absolute;
+  width: 288px;
+  height: 379px;
+  left: 16px;
+  top: 961px;
+}
+
+.about_triple1{
+  /* Group 71 */
+
+  width: 288px;
+  height: 114px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.about_triple1_text{
+  /* 1000+ */
+
+
+  position: absolute;
+  left: 0%;
+  right: 8.57%;
+  top: 0%;
+  bottom: 87.34%;
+
+  /* HEADER/H2 Semibold 40-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  /* identical to box height, or 48px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+}
+
+.about_triple1_text1{
+  /* реализованных проектов */
+
+
+  position: absolute;
+  width: 288px;
+  height: 54px;
+  left: 0px;
+  top: 60px;
+
+  /* BODY/BASE Regular 18-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+
+  /* BW/black2 */
+
+  color: #495057;
+}
+
+.about_triple2{
+  /* Group 70 */
+
+
+  width: 288px;
+  height: 114px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.about_triple2_text{
+  /* 92 */
+
+
+  position: absolute;
+  left: 0%;
+  right: 82.64%;
+  top: 38.52%;
+  bottom: 48.81%;
+
+  /* HEADER/H2 Semibold 40-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  /* identical to box height, or 48px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+}
+
+.about_triple2_text1{
+  /* клиента доверили нам свои проекты */
+
+
+  position: absolute;
+  width: 288px;
+  height: 54px;
+  left: 0px;
+  top: 206px;
+
+  /* BODY/BASE Regular 18-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+
+  /* BW/black2 */
+
+  color: #495057;
+}
+
+.about_triple3{
+  /* Group 72 */
+
+
+  width: 288px;
+  height: 87px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.about_triple3_text{
+  /* 5+ */
+
+
+  position: absolute;
+  left: 0%;
+  right: 60.31%;
+  top: 77.04%;
+  bottom: 10.29%;
+
+  /* HEADER/H2 Semibold 40-120% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  /* identical to box height, or 48px */
+
+  letter-spacing: -0.03em;
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+}
+
+.about_triple3_text1{
+  /* лет успешной работы */
+
+
+  position: absolute;
+  width: 288px;
+  height: 27px;
+  left: 0px;
+  top: 352px;
+
+  /* BODY/BASE Regular 18-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+
+  /* BW/black2 */
+
+  color: #495057;
+}

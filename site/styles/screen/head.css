@@ -1,0 +1,145 @@
+.text{
+position: absolute;
+width: 212.25px;
+height: 72px;
+left: 0px;
+top: 95px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+
+color: #343A40;
+}
+
+.wazzup_telega{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 0px;
+  gap: 32px;
+
+  position: absolute;
+  width: 297px;
+  height: 27px;
+  right: 32px;
+  bottom: 32px;
+
+}
+
+.wazzup{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 134px;
+height: 27px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.wazzup_img{
+  width: 24px;
+  height: 24px;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.wazzup_text{
+  width: 102px;
+  height: 27px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  color: #343A40;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.telega{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 131px;
+height: 27px;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.telega_img{
+  width: 24px;
+  height: 24px;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.telega_text{
+  width: 99px;
+  height: 27px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  color: #343A40;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.section_hero{
+position: absolute;
+height: 1024px;
+width: 1440px;
+left: 0px;
+right: 0px;
+top: 0px;
+}
+
+.arrow_down{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13.5px;
+gap: 7.5px;
+
+position: absolute;
+width: 18px;
+height: 20px;
+left: 716px;
+top: 944px;
+
+border-radius: 48px;
+}

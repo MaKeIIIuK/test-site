@@ -1,0 +1,141 @@
+footer{
+  /* Footer */
+
+
+  position: absolute;
+  width: 320px;
+  height: 209px;
+  top: 4764px;
+  left: 0px;
+}
+
+
+.footer_line{
+  /* Line 28 */
+
+  position: absolute;
+  width: 320px;
+  height: 0px;
+  left: 0px;
+  top: 0px;
+
+  /* BW/gray1 */
+
+  border: 1px solid #ACB5BD;
+}
+
+.footer_box{
+  /* Frame 1167 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 35.5px;
+  gap: 16px;
+
+  width: 249px;
+  height: 104px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.footer_text{
+  /* 2015-2021 © Дрожжи™ */
+
+
+  width: 192px;
+  height: 24px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+
+  /* BW/gray3 */
+
+  color: #ADB5BD;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.footer_text1{
+  /* ООО «РВБ-Маркетинг» */
+
+
+  width: 182px;
+  height: 24px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+
+  /* BW/gray3 */
+
+  color: #ADB5BD;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.footer_text2{
+  /* Политика конфиденциальности */
+
+
+  width: 249px;
+  height: 24px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+
+  /* BW/gray3 */
+
+  color: #ADB5BD;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.footer_image{
+  /* Frame */
+
+
+  position: absolute;
+  width: 106px;
+  height: 48px;
+  left: 107.15px;
+  top: 136.13px;
+}

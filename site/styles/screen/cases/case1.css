@@ -1,0 +1,160 @@
+.portfolio_case1{
+position: absolute;
+width: 675.59px;
+height: 585px;
+left: 32px;
+top: 104px;
+
+}
+
+.portfolio_case1_up{
+  /* Frame 92 */
+
+
+  position: absolute;
+  width: 675.59px;
+  height: 513px;
+
+  background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%), #EEEEEE;
+  border-radius: 8px;
+}
+
+.portfolio_case1_up_box{
+  /* Frame 1086 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  position: absolute;
+  width: 105px;
+  height: 24px;
+  left: 16px;
+  top: 473px;
+
+  /* BW/black */
+
+  background: #212529;
+  border-radius: 32px;
+}
+
+.portfolio_case1_up_box_text{
+  /* МАРКЕТИНГ */
+
+
+  width: 89px;
+  height: 20px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  z-index: 1;
+
+  /* BW/white */
+
+  color: #FFFFFF;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.portfolio_case1_up_box1{
+  /* Frame 1005 */
+
+
+position: absolute;
+width: 675.59px;
+height: 513px;
+left: 0px;
+top: 0px;
+}
+
+.portfolio_case1_down{
+  /* Frame 200 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 2px;
+
+  position: absolute;
+  width: 675.59px;
+  height: 60px;
+  top: 529px;
+}
+
+.portfolio_case1_down_box_text{
+  /* «Натали» — Ивановский трикотаж оптом */
+
+
+  height: 31px;
+
+  /* HEADER/H4 Medium 24-130% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.portfolio_case1_down_box_text1{
+  /* Редизайн сайта, поддержка сайта */
+
+height: 27px;
+
+/* BODY/BASE Regular 18-150% Body */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+/* BW/gray1 */
+
+color: #6C757D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}

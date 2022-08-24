@@ -1,0 +1,508 @@
+.request{
+  /* Frame 1172 */
+
+
+  position: absolute;
+  width: 320px;
+  height: 1094px;
+  left: 0px;
+  top: 3671px;
+}
+
+.request_textbox{
+  /* Group 73 */
+
+
+  position: absolute;
+  width: 288px;
+  height: 398px;
+  left: 16px;
+  top: 440px;
+}
+
+.request_textbox_line1{
+  /* Group 13 */
+
+
+  width: 288px;
+  height: 56px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.request_textbox_line1_text{
+  /* Ваше имя * */
+
+
+  position: absolute;
+  height: 32px;
+  left: 0.22px;
+  right: 0px;
+  top: 0px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+
+  /* BW/gray3 */
+
+  color: #ADB5BD;
+}
+.request_textbox_line11{
+  /* Line 22 */
+
+
+  position: absolute;
+  width: 286px;
+  height: 0px;
+  left: 0px;
+  top: 56px;
+
+  /* BW/gray4 */
+
+  border: 1px solid #CED4DA;
+}
+
+.request_textbox_line2{
+  /* Group 14 */
+
+
+  width: 288px;
+  height: 51px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.request_textbox_line2_text{
+  /* Телефон * */
+
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 15.15%;
+  bottom: 66.56%;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+
+  /* BW/gray3 */
+
+  color: #ADB5BD;
+
+}
+.request_textbox_line21{
+  /* Line 23 */
+
+
+  position: absolute;
+  width: 286px;
+  height: 0px;
+  left: 0px;
+  top: 123px;
+
+  /* BW/gray4 */
+
+  border: 1px solid #CED4DA;
+}
+
+.request_textbox_line3{
+  width: 288px;
+  height: 172px;
+}
+.request_textbox_line3_text{
+  /* Краткое описание задачи * */
+
+  position: absolute;
+  top: 139px;
+  width: 288px;
+  height: 64px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+
+  /* BW/gray1 */
+
+  color: #ACB5BD;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.request_textbox_line31{
+  /* Line 25 */
+
+  position: absolute;
+  top: 311px;
+  left: 0px;
+  width: 286px;
+  height: 0px;
+
+  /* BW/gray4 */
+
+  border: 1px solid #CED4DA;
+}
+
+.request_text{
+  /* Оставьте заявку */
+
+
+  position: absolute;
+  height: 124px;
+  left: 16px;
+  right: 16px;
+  top: 0px;
+
+  /* H2 */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  /* BW/black */
+
+  color: #212529;
+}
+
+.request_button{
+  /* button */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 224px;
+  height: 68px;
+  left: 0px;
+  top: 330px;
+}
+
+.request_img{
+  /* Ellipse 6 */
+
+
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 60px;
+  top: 138px;
+}
+
+.request_img_text{
+  /* Юлия Дижа */
+
+
+  position: absolute;
+  width: 288px;
+  height: 31px;
+  left: 16px;
+  top: 344px;
+
+  /* HEADER/H4 Semibold 24-130% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+}
+
+.request_img_text1{
+  /* Поможет запустить ваш проект */
+
+
+  position: absolute;
+  width: 304px;
+  height: 27px;
+  left: 16px;
+  top: 381px;
+
+  /* BODY/BASE Regular 18-150% Body */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+
+  /* BW/black3 */
+
+  color: #343A40;
+
+
+}
+
+.request_text_brif{
+  /* Скачать брифинги на: */
+
+
+  position: absolute;
+  width: 288px;
+  height: 31px;
+  left: 16px;
+  top: 870px;
+
+  /* HEADER/H4 Semibold 24-130% */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+
+  letter-spacing: -0.03em;
+
+  /* BW/black */
+
+  color: #212529;
+
+}
+
+.request_text_brif1_class{
+  /* Frame 1013 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+
+  position: absolute;
+  width: 238.46px;
+  height: 35px;
+  left: 16px;
+  top: 918px;
+}
+.request_text_brif2_class{
+  /* Frame 1014 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+
+  position: absolute;
+  width: 202.75px;
+  height: 35px;
+  left: 16px;
+  top: 961px;
+
+}
+.request_text_brif3_class{
+  /* Frame 1015 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+
+  position: absolute;
+  width: 240.77px;
+  height: 35px;
+  left: 16px;
+  top: 1004px;
+
+}
+
+.request_text_brif1{
+  /* Frame 1012 */
+
+
+/* Auto layout */
+/* 18-30 base text */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* PRIMARY/primary */
+
+color: #D22020;
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 207px;
+height: 30px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.request_text_brif2{
+  /* Frame 1012 */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 176px;
+height: 30px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.request_text_brif3{
+  /* Frame 1012 */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+
+  /* PRIMARY/primary */
+
+  color: #D22020;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 209px;
+height: 30px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.request_text_brif1_icon{
+  /* Line 55 */
+
+
+width: 207px;
+height: 0px;
+
+border: 1px solid rgba(210, 32, 32, 0.4);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.request_text_brif2_icon{
+  /* Line 55 */
+
+
+width: 176px;
+height: 0px;
+
+border: 1px solid rgba(210, 32, 32, 0.2);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.request_text_brif3_icon{
+  /* Line 55 */
+
+
+width: 209px;
+height: 0px;
+
+border: 1px solid rgba(210, 32, 32, 0.2);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
